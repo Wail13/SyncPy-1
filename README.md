@@ -30,7 +30,7 @@ Architecture
 ------------------------
 
 SyncPy includes three main components:
-- Utils package
+- Utils package 
 - Graphical interface
 - Synchrony methods package
 
